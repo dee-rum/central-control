@@ -1,3 +1,0 @@
-winupdate,no
-pull,no
-start,yes
